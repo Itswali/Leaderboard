@@ -28,11 +28,11 @@
 
 
 
-# 📖 [to-do-list] <a name="to-do-list"></a>
+# 📖 [LeaderBoard] <a name="Leaderboard"></a>
 
 
 
-**[to-do-list]** is a program that allows the user to add and remove differen tasks and mark them completed
+**[Leaderboard]** is a program
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -86,9 +86,9 @@
 
 
 
-- [Live Demo Link](https://Itswali.github.io/toDoList/dist)
+- [Live Demo Link](https://Itswali.github.io/webpack/dist)
 
-- [Live Demo Link](https://Itswali.github.io/toDoList/)
+- [Live Demo Link](https://Itswali.github.io/webpack/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -158,17 +158,6 @@ You can deploy this project using:
 - GitHub: [@](https://github.com/Itswali)
 - Twitter: [@](https://twitter.com/WaliMuh94818599)
 - LinkedIn: [@](https://www.linkedin.com/in/wali-muhammad-666040244/)
-  
-  👤 **Samuel Kyere**
-
-- GitHub: [@](https://github.com/admirerbrown)
-- Twitter: [@](https://twitter.com/brown_admirer)
-- LinkedIn: [@](https://www.linkedin.com/in/samuel-ntow-kyere-5036741b4/)
-
-👤 **Reem Muhammed**
-
-- GitHub: [@github](https://github.com/ReemMohamedAbdelfatah)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/reem-abd-el-fatah-a07543116)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -183,8 +172,6 @@ You can deploy this project using:
 
 
 
-
-- [ ] **[Will add further testing functions.]**
 
 
 - 
@@ -203,7 +190,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## Live Link:
 
-- https://Itswali.github.io/to-do-list/dist/
+- https://Itswali.github.io/webpack/dist/
 
 
 ## Show your support
