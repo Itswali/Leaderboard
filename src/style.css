@@ -31,7 +31,7 @@ h1 {
 }
 
 #actions button {
-  width: max-content;
+  width: 65px;
   height: max-content;
   padding: 3px;
 }
@@ -54,7 +54,7 @@ h1 {
   display: flex;
   flex-direction: column;
   gap: 25px;
-  padding: 3vh 50vh 1vh 0;
+  padding: 3vh 60vh 1vh 0;
 }
 
 #form {
@@ -70,8 +70,8 @@ h1 {
 }
 
 #form ul button {
-  width: max-content;
+  width: 70px;
   height: max-content;
   padding: 3px;
-  margin-left: 70%;
+  margin-left: 60%;
 }
