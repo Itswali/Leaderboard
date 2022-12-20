@@ -47,7 +47,7 @@ h1 {
 }
 
 #display-section li:nth-child(even) {
-    background-color: rgb(64, 207, 207);
+  background-color: rgb(64, 207, 207);
 }
 
 .adding-scores {
