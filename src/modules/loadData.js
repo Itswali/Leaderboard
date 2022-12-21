@@ -17,7 +17,7 @@ const renderGames = () => {
 };
 
 const getScores = async () => {
-  const response = await fetch('');
+  const response = await fetch('https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/:OajjUViqUBOUtMbxRx8L/scores/');
   const data = await response.json();
   gamesArray = data.result;
   renderGames();

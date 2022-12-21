@@ -4,7 +4,7 @@ const fetchAPI = () => {
     {
       method: 'POST',
       body: JSON.stringify({
-        name: 'My cool new game',
+        name: 'My Leaderboard new game',
       }),
       headers: {
         'Content-type': 'application/json; charset=UTF-8',
