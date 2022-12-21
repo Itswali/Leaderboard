@@ -1,0 +1,23 @@
+@import '_display.scss';
+@import '_add.scss';
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: cursive;
+  list-style: none;
+}
+
+h1 {
+  margin-left: 6%;
+  margin-top: 3%;
+  text-decoration: underline;
+}
+
+#outline {
+  display: flex;
+  flex-direction: row;
+  margin-left: 8%;
+  margin-top: 3%;
+  gap: 30%;
+}
