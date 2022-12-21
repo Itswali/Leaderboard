@@ -20,7 +20,7 @@ const newScore = async () => {
     score.value = '';
   } catch (err) {
     // eslint-disable-next-line no-console
-    console.log(err);
+    
   }
 };
 
