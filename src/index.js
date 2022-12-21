@@ -12,6 +12,8 @@ submit.addEventListener('click', (e) => {
   newScore();
 });
 
+// get the score when user enter the date
+submit.addEventListener('click', getScore);
 // refresh button
 refresh.addEventListener('click', getScore);
 
