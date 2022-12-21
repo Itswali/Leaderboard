@@ -1,0 +1,36 @@
+#score-section {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+#actions {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+#actions button {
+  height: 24px;
+  margin: 8px;
+  color: rgb(243, 35, 35);
+  border: 1px solid rgb(77, 52, 52);
+  border-radius: 6px;
+  width: 60px;
+}
+
+#display-section {
+  border: 2px solid black;
+}
+
+li {
+  margin: 2px;
+  font-weight: 500;
+}
+
+#display-section li:nth-child(even) {
+  background-color: rgb(51, 143, 143);
+  color: rgb(77, 0, 0);
+  padding-left: 5px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
