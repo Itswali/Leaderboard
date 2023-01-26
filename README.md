@@ -88,7 +88,6 @@
 
 - [Live Demo Link](https://Itswali.github.io/webpack/dist)
 
-- [Live Demo Link](https://Itswali.github.io/webpack/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
