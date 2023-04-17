@@ -1,235 +1,48 @@
-# 📗 Table of Contents
-- [📗 Table of Contents](#-table-of-contents)
-- [📗 Table of Contents](#-table-of-contents-1)
-- [📖 \[to-do-list\] ](#-to-do-list-)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
-    - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-    - [Install](#install)
-    - [Usage](#usage)
-    - [Run tests](#run-tests)
-    - [Deployment](#deployment)
-  - [👥 Authors ](#-authors-)
-    - [Deployment](#deployment-1)
-  - [👥 Authors ](#-authors--1)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [Live Link:](#live-link)
-  - [Show your support](#show-your-support)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [❓ FAQ ](#-faq-)
-  - [📝 License ](#-license-)
-
-
-
-
-# 📖 [LeaderBoard] <a name="Leaderboard"></a>
-
-
-
-**[Leaderboard]** is a program
-
-## 🛠 Built With <a name="built-with"></a>
-
-- Major languages
-- HTML
-- CSS
-- Javascript
-
-### Tech Stack <a name="tech-stack"></a>
-
-
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-
-### Key Features <a name="key-features"></a>
-
-
-
-- **[Add a task]**
- 
-- **[Remove a task]**
-
-- **[Mark a task as completed]**
-  
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-
-
-- [Live Demo Link](https://Itswali.github.io/webpack/dist)
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-
-
-### Prerequisites
-
-In order to run this project you need:
-
-You can either run the program from the live link or you can clone the prpject to your machine and run it manually from your VS code.
-
-### Setup
-
-Clone this repository to your desired folder:
-
-### Install
-
-Install this project with:
-
-### Usage
-
-To run the project, execute the following command:
-
-
-### Run tests
-
-To run tests, run the following command:
-
-
-
-### Deployment
-
-You can deploy this project using:
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## 👥 Authors <a name="authors"></a>
-
-
-
-
-### Deployment
-
-You can deploy this project using:
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## 👥 Authors <a name="authors"></a>
-
-
-
-
+# Leader-Board
+
+This is a single web application created using ES6 syntax and webpack. It uses an external API to fech game scores and add new score to a game
+
+## Live demo
+
+[demo here](https://Itswali.github.io/Leaderboard/dist/index.html)
+
+## Buit with
+* HTML/CSS
+* JAVASCRIPT (ES6/...)
+* webpack
+
+## Getting Started (Setup)
+
+1. Run the command
+```bash
+git clone https://github.com/Itswali/Leaderboard.git
+```
+2. And Run the command
+```bash
+npm install
+```
+3. create a `.env` file in your root directory and add to it two environment variables `BASE_URL`
+and `GAME_ID`, for more info visit the [API docs](https://www.notion.so/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3)
+
+## Prerequisites
+* GitHub flow
+* Gitflow
+* HTML and CSS
+* JAVASCRIPT (ES6/...)
+* webpack
+
+## Author
 
 👤 **Wali Muhammad**
 
-- GitHub: [@](https://github.com/Itswali)
-- Twitter: [@](https://twitter.com/WaliMuh94818599)
-- LinkedIn: [@](https://www.linkedin.com/in/wali-muhammad-666040244/)
+* GitHub: [@Itswali](https://github.com/Itswali)
+* Twitter: [@Wali-Muhammad](https://twitter.com/WaliMuh94818599)
+* LinkedIn: [@wali-Muhammad](https://linkedin.com/in/wali-muhammad-666040244/)
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## 🔭 Future Features <a name="future-features"></a>
-
-
-
-
-
-
-
-
-
-- 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## 🤝 Contributing <a name="contributing"></a>
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-## Live Link:
-
-- https://Itswali.github.io/webpack/dist/
-
+Feel free to check the [issues page](https://github.com/Itswali/Leaderboard/issues).
 
 ## Show your support
-
-
-
-## ⭐️ Show your support <a name="support"></a>
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## ❓ FAQ <a name="faq"></a>
-
-
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./MIT.md) licensed.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Give a ⭐️ if you like this project!
